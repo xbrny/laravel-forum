@@ -1,0 +1,19 @@
+Forum
+
+home
+-nav for login/register
+-create new discussion for logged in user
+-list of all topic
+-list of all discussion
+
+admin
+-list of all topic (manageable)
+-create new topic
+-create new discussion
+
+
+--------------- model --------------------
+users
+topics
+discussions
+replies
